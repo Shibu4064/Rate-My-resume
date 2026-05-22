@@ -1,4 +1,4 @@
-# Rate-My-resume
+# Rate-My-Resume. [Live View](https://rateresume.netlify.app/)
 # 🚀 Rate My Resume — AI-Powered Resume Analyzer
 
 An intelligent resume analysis web application that helps users evaluate their CV/resume instantly with a professional score, ATS-friendly feedback, and actionable improvement suggestions.
